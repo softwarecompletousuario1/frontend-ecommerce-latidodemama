@@ -16,6 +16,10 @@
 }
 .icon-carousel{
     width: 25px;
+    color: var(--color-3);
+}
+.icon_rotate{
+    transform: rotate(180deg);
 }
 
 @media (max-width: 750px) {
